@@ -262,32 +262,7 @@ namespace Lab2
                     .Where(x => x.Parameter.Equals("Rating"))
                     .Select(x => Convert.ToInt32(x.Definition))
                     .ToList();
-                
-                // double avProductRat = avPrInMarket
-                //     .Where(x => x.Parameter.Equals("Rating")
-                //     .Average(x => Convert.ToDouble(x.Definition));
-                
-                // foreach(var g in grMPP) {
-                //     Console.WriteLine(string.Format(grMarProdPrInfStr,
-                //         g.MarketName,
-                //         g.Rating,
-                //         g.Name,
-                //         g.Price,
-                //         g.Amount,
-                //         g.DeliveryPeriod,
-                //         g.Parameter,
-                //         g.Definition));
-                        
-                //     Console.WriteLine(avProductRat + "");
-                // }
-                // Console.WriteLine("\n");
             }
-
-            // for(int i = 0; i < grMarRatAndProdRat.Count(); i++) {
-                
-            // }
-
-            //double avProductRating = grMarRatAndProdRat.Average(x => Convert.ToDouble(x.Definition));
 
             Console.WriteLine("\n2. Сравнить рейтинг Market с средним значением рейтингов продуктов. Если рейтинг Market ниже, то выделить Market\n");
             foreach(var grMPP in grMarProdPrInf) {

@@ -18,3 +18,13 @@ C:/Users/Aliden/Labs_.net/Lab2/obj/Debug/netcoreapp2.0/Lab2.pdb
 /home/asset/Lab2/obj/Debug/netcoreapp2.0/Lab2.AssemblyInfo.cs
 /home/asset/Lab2/obj/Debug/netcoreapp2.0/Lab2.dll
 /home/asset/Lab2/obj/Debug/netcoreapp2.0/Lab2.pdb
+/home/asset/design.net/Lab2/bin/Debug/netcoreapp2.0/Lab2.deps.json
+/home/asset/design.net/Lab2/bin/Debug/netcoreapp2.0/Lab2.runtimeconfig.json
+/home/asset/design.net/Lab2/bin/Debug/netcoreapp2.0/Lab2.runtimeconfig.dev.json
+/home/asset/design.net/Lab2/bin/Debug/netcoreapp2.0/Lab2.dll
+/home/asset/design.net/Lab2/bin/Debug/netcoreapp2.0/Lab2.pdb
+/home/asset/design.net/Lab2/obj/Debug/netcoreapp2.0/Lab2.csproj.CoreCompileInputs.cache
+/home/asset/design.net/Lab2/obj/Debug/netcoreapp2.0/Lab2.AssemblyInfoInputs.cache
+/home/asset/design.net/Lab2/obj/Debug/netcoreapp2.0/Lab2.AssemblyInfo.cs
+/home/asset/design.net/Lab2/obj/Debug/netcoreapp2.0/Lab2.dll
+/home/asset/design.net/Lab2/obj/Debug/netcoreapp2.0/Lab2.pdb

@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/asset/Lab2/Lab2.csproj",
+      "projectUniqueName": "/home/asset/design.net/Lab2/Lab2.csproj",
       "projectName": "Lab2",
-      "projectPath": "/home/asset/Lab2/Lab2.csproj",
+      "projectPath": "/home/asset/design.net/Lab2/Lab2.csproj",
       "packagesPath": "/home/asset/.nuget/packages/",
-      "outputPath": "/home/asset/Lab2/obj/",
+      "outputPath": "/home/asset/design.net/Lab2/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
