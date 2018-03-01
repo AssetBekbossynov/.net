@@ -1,0 +1,8 @@
+/home/asset/design.net/Lab3/lib2/bin/Debug/netstandard2.0/lib2.deps.json
+/home/asset/design.net/Lab3/lib2/bin/Debug/netstandard2.0/lib2.dll
+/home/asset/design.net/Lab3/lib2/bin/Debug/netstandard2.0/lib2.pdb
+/home/asset/design.net/Lab3/lib2/obj/Debug/netstandard2.0/lib2.csproj.CoreCompileInputs.cache
+/home/asset/design.net/Lab3/lib2/obj/Debug/netstandard2.0/lib2.AssemblyInfoInputs.cache
+/home/asset/design.net/Lab3/lib2/obj/Debug/netstandard2.0/lib2.AssemblyInfo.cs
+/home/asset/design.net/Lab3/lib2/obj/Debug/netstandard2.0/lib2.dll
+/home/asset/design.net/Lab3/lib2/obj/Debug/netstandard2.0/lib2.pdb

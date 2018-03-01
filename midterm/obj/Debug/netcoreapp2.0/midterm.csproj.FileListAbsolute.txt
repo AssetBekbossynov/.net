@@ -1,0 +1,10 @@
+/home/asset/design.net/midterm/bin/Debug/netcoreapp2.0/midterm.deps.json
+/home/asset/design.net/midterm/bin/Debug/netcoreapp2.0/midterm.runtimeconfig.json
+/home/asset/design.net/midterm/bin/Debug/netcoreapp2.0/midterm.runtimeconfig.dev.json
+/home/asset/design.net/midterm/bin/Debug/netcoreapp2.0/midterm.dll
+/home/asset/design.net/midterm/bin/Debug/netcoreapp2.0/midterm.pdb
+/home/asset/design.net/midterm/obj/Debug/netcoreapp2.0/midterm.csproj.CoreCompileInputs.cache
+/home/asset/design.net/midterm/obj/Debug/netcoreapp2.0/midterm.AssemblyInfoInputs.cache
+/home/asset/design.net/midterm/obj/Debug/netcoreapp2.0/midterm.AssemblyInfo.cs
+/home/asset/design.net/midterm/obj/Debug/netcoreapp2.0/midterm.dll
+/home/asset/design.net/midterm/obj/Debug/netcoreapp2.0/midterm.pdb

@@ -1,0 +1,14 @@
+/home/asset/design.net/Lab3/lab/bin/Debug/netcoreapp2.0/lab.deps.json
+/home/asset/design.net/Lab3/lab/bin/Debug/netcoreapp2.0/lab.runtimeconfig.json
+/home/asset/design.net/Lab3/lab/bin/Debug/netcoreapp2.0/lab.runtimeconfig.dev.json
+/home/asset/design.net/Lab3/lab/bin/Debug/netcoreapp2.0/lab.dll
+/home/asset/design.net/Lab3/lab/bin/Debug/netcoreapp2.0/lab.pdb
+/home/asset/design.net/Lab3/lab/bin/Debug/netcoreapp2.0/lib.dll
+/home/asset/design.net/Lab3/lab/bin/Debug/netcoreapp2.0/lib.pdb
+/home/asset/design.net/Lab3/lab/obj/Debug/netcoreapp2.0/lab.csproj.CoreCompileInputs.cache
+/home/asset/design.net/Lab3/lab/obj/Debug/netcoreapp2.0/lab.AssemblyInfoInputs.cache
+/home/asset/design.net/Lab3/lab/obj/Debug/netcoreapp2.0/lab.AssemblyInfo.cs
+/home/asset/design.net/Lab3/lab/obj/Debug/netcoreapp2.0/lab.dll
+/home/asset/design.net/Lab3/lab/obj/Debug/netcoreapp2.0/lab.pdb
+/home/asset/design.net/Lab3/lab/bin/Debug/netcoreapp2.0/lib2.dll
+/home/asset/design.net/Lab3/lab/bin/Debug/netcoreapp2.0/lib2.pdb

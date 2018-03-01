@@ -1,0 +1,27 @@
+@using Lab4.Models.Calculator;
+
+@{
+    ViewData["Title"] = "Calulator";
+}
+<form method="POST">
+    <legend>Simple Calculator</legend>
+    <div>
+        <input type="number" 
+                name="Operand1" 
+                value="@Model.Operand1" />    
+        <select name="Operator" 
+                value="@Model.Operator">
+            <option value="+">+</option>
+            <option value="-">-</option>
+            <option value="*">*</option>
+            <option value="/">/</option>
+        </select>
+        <input type="number" 
+                name="Operand2"
+                value="@Model.Operand2">
+        <input type="submit" 
+                value="Calculate" />
+    </div>
+    <br />
+    <h4>Answer @Model.Answer</h4>
+</form>
