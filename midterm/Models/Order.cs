@@ -1,5 +1,5 @@
 namespace midterm{
-    class Order{
+    public class Order{
         public int Id { get; set; }
         public int RouteId { get; set; }
         public int LoadId { get; set; }

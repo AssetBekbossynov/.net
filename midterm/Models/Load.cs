@@ -1,5 +1,5 @@
 namespace midterm{
-    class Load{
+    public class Load{
         public int Id { get; set; }
         public int CategoryId { get; set; }
 

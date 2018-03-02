@@ -1,5 +1,5 @@
 namespace midterm{
-    class Too{
+    public class Too{
         
     }
 }
