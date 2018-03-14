@@ -1,6 +1,6 @@
 Id;Path;Duration;Cost
-1;Astana<->Almaty;12;5000
-2;Almaty<->Taldykorgan;4;1000
-3;Astana<->Taldykorgan;9;5500
-4;Almaty<->Aktau;13;10000
-5;Astana<->Aktau;15;8000
+1;Astana<->Almaty;2;5000
+2;Almaty<->Taldykorgan;1;1000
+3;Astana<->Taldykorgan;3;5500
+4;Almaty<->Aktau;5;10000
+5;Astana<->Aktau;4;8000

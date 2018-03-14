@@ -1,13 +1,13 @@
-@using Models
-@model List<Category>
+@using midterm.Models
+@model List<LoadAndCategory>
 @using System.Collections.Generic
 
 <table class="table">
     <thead>
      <tr>
-       <th> Id  </th>
-       <th> Description  </th>
-       <th> Cost  </th>
+       <th> Id </th>
+       <th> Phone  </th>
+       <th> Category  </th>
      </tr>
     </thead>
     <tbody>
@@ -15,8 +15,8 @@
     {
         <tr>
            <td> @item.Id </td>
+           <td> @item.Phone </td>
            <td> @item.Description </td>
-           <td> @item.Cost </td>
         </tr>
     }
     </tbody>

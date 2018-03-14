@@ -5,12 +5,12 @@ using System.Linq;
 
 namespace midterm.Models
 {
-    public class LoadStore : IStore<Load>
+    public class OrderStore : IStore<Order>
     {
-        private List<Load> _cachedCollection;
+        private List<Order> _cachedCollection;
         
         public string Path { get; set; }
-        public List<Load> GetCollection()
+        public List<Order> GetCollection()
         {
             if(_cachedCollection == null)
             {
@@ -24,15 +24,18 @@ namespace midterm.Models
             return _cachedCollection;
         }
 
-        public Load ConvertItem(string item)
+        public Order ConvertItem(string item)
         {
             var itemList = item.Split(';');
 
-            return new Load()
+            return new Order()
             {
                 Id = Convert.ToInt32(itemList[0]),
-                Phone = itemList[1],
-                CategoryId = Convert.ToInt32(itemList[2])
+                RouteId = Convert.ToInt32(itemList[1]),
+                LoadId = Convert.ToInt32(itemList[2]),
+                OrderDate = itemList[3],
+                DeliveryDate = itemList[4],
+                TotalCost = Convert.ToInt32(itemList[5])
             };
         }
     }

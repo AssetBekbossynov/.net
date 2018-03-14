@@ -1,5 +1,5 @@
-namespace midterm{
-    class OrderDetail{
+namespace midterm.Models{
+    public class OrderDetail{
         public int Id { get; set; }
         public int OrderId { get; set; }
         public string Status { get; set; }

@@ -32,7 +32,8 @@ namespace midterm.Models
             {
                 Id = Convert.ToInt32(itemList[0]),
                 Path = itemList[1],
-                Cost = Convert.ToDouble(itemList[2])
+                Duration = Convert.ToInt32(itemList[2]),
+                Cost = Convert.ToDouble(itemList[3])
             };
         }
     }
